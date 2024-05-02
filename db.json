@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Vue.js Tips and Tricks",
+      "content": "Some useful tips"
+    },
+    {
+      "id": 2,
+      "title": "Learning Vue Router",
+      "content": "How to navigate between pages"
+    }
+  ]
+}
